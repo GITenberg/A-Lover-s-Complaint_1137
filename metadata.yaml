@@ -1,0 +1,46 @@
+_repo: A-Lover-s-Complaint_1137
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: "\"A Lover's Complaint\" is a narrative poem published as an appendix\
+  \ to the original edition of Shakespeare's Sonnets. It is given the title \"A Lover's\
+  \ Complaint\" in the book, which was published by Thomas Thorpe in 1609.\nAlthough\
+  \ published as Shakespeare's work, the poem's authorship has become a matter of\
+  \ critical debate. The majority opinion is that it is by Shakespeare, though of\
+  \ inferior quality to his other works.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1997-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1137'
+  wikidata: Q1195233
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+- GITenberg
+title: A Lover's Complaint
+url: http://www.gutenberg.org/ebooks/1137
+wikipedia:
+- https://nl.wikipedia.org/wiki/A_Lover%27s_Complaint
+- https://ja.wikipedia.org/wiki/%E6%81%8B%E4%BA%BA%E3%81%AE%E5%98%86%E3%81%8D
+- https://pt.wikipedia.org/wiki/A_Lover%27s_Complaint
+- https://fy.wikipedia.org/wiki/De_Klaachsang_fan_in_Minneresse
+- https://de.wikisource.org/wiki/William_Shakspeare%27s_s%C3%A4mmtliche_Gedichte/Einer_Liebenden_Klage
+- https://de.wikipedia.org/wiki/Der_Liebenden_Klage
+- https://pl.wikipedia.org/wiki/Skarga_zakochanej
+- https://cs.wikisource.org/wiki/N%C3%A1%C5%99ek_milen%C4%8Din
+- https://en.wikisource.org/wiki/A_Lover%27s_Complaint
+- https://en.wikipedia.org/wiki/A_Lover%27s_Complaint
+- https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0_%D0%B2%D0%BB%D1%8E%D0%B1%D0%BB%D1%91%D0%BD%D0%BD%D0%BE%D0%B9
