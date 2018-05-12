@@ -1,5 +1,8 @@
 _repo: A-Lover-s-Complaint_1137
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -17,6 +20,8 @@ description: "\"A Lover's Complaint\" is a narrative poem published as an append
   \ published as Shakespeare's work, the poem's authorship has become a matter of\
   \ critical debate. The majority opinion is that it is by Shakespeare, though of\
   \ inferior quality to his other works.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1137#A-Lover-s-Complaint
 gutenberg_issued: '1997-12-01'
 gutenberg_type: Text
 identifiers:
